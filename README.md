@@ -71,7 +71,7 @@ This project serves as a comprehensive portfolio piece demonstrating **Senior Fr
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/lumina-prime.git
+git clone https://github.com/Pusri27/product-landing-3d.git
 
 # Install dependencies
 npm install
